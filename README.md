@@ -1,5 +1,5 @@
 ### Citation:
-Chung et al. Manuscript in preparation. 2020
+Chung et al. 2021
 
 ### Description:
 This repository contains code for analyses of inCITE-seq data.
